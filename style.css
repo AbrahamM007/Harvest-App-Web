@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.welcome-container {
+    text-align: center;
+}
+
+h1 {
+    color: #074100;
+}
+
+a {
+    padding: 10px 20px;
+    background-color: #0C6C00;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #074100;
+}
